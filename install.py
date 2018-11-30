@@ -32,7 +32,6 @@ if option == 1:
     install2 = os.system("cp -R trity/ /opt/ && cp trity.py /opt/trity && cp run.sh /opt/trity && cp run.sh /usr/bin/trity && chmod +x /usr/bin/trity")
     os.system('apt-get install sendemail')
     os.system('pip install qrcode')
-    os.system('pip install google')
     os.system('pip install search_google')
     os.system('pip install mechanize')
     os.system('pip install requests')
