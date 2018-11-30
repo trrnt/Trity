@@ -1,4 +1,4 @@
-
+import search_google
 from search import *
 class color:
    OKGREEN = '\033[92m'
