@@ -1,4 +1,5 @@
-from googlesearch import search
+
+from search import *
 class color:
    OKGREEN = '\033[92m'
    WARNING = '\033[93m'
