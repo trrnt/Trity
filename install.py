@@ -33,6 +33,7 @@ if option == 1:
     os.system('apt-get install sendemail')
     os.system('pip install qrcode')
     os.system('pip install google')
+    os.system('pip install search_google')
     os.system('pip install mechanize')
     os.system('pip install requests')
     os.system('apt-get install lib32ncurses5-dev')
