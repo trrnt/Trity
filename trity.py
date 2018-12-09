@@ -35,7 +35,6 @@ try:
     import pip
     import pythonwhois
     import argparse
-    from googlesearch import search
 except ImportError:
     print (color.UNDERLINE + "\033[91m" + "You don't have some modules installed! \nPlease run install.py to install this tool fully! " + color.END)
     sys.exit()
