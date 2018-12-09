@@ -28,4 +28,4 @@ If you have any issues regarding the source code of this framework, as well as a
     Email: toxicnull@gmail.com
     Instagram: @_t0x1c
     Twitter: @toxicnull
-    Discord: #9073
+    Discord: toxic#9073
