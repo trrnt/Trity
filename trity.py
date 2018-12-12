@@ -162,7 +162,6 @@ def tritymain():
 	        print ""+R+"whois"+W+" - whois a website"
 	        print ""+R+"web"+W+" - extract info from a website"
 	        print ""+R+"siteexists"+W+" - check if a site exists"
-	        print ""+R+"google"+W+" - find google results for a query"
 	        print ""+R+"clickjacking"+W+" - test websites for clickjacking vulnerability"
                 print ""+W+"+----------------------------+"
 	        print ""+G+"ip "+W+"- geolocate an ip"
@@ -202,8 +201,6 @@ def tritymain():
 	        decode1()
 	    elif main == "encode hex":
 	        encode1()
-	    elif main == "google":
-	        googleSearch()
 	    elif main == "web":
 	        web()
 	    elif main == "clickjacking":
