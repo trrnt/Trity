@@ -37,7 +37,7 @@ if option == 1:
     os.system('pip install requests')
     os.system('apt-get install lib32ncurses5-dev')
     os.system('apt-get install libncurses5-dev')
-    pip.main(["install", "netifaces", "scapy", "SpoofMAC", "pythonwhois", "readline", "BeautifulSoup"])
+    os.system("pip install netifaces scapy SpoofMAC pythonwhois readline BeautifulSoup")
     print "\033[1;32m[!] Finished Installing! Run 'trity' to run program [!]\033[0m"
     sys.exit()
 else:
