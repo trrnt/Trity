@@ -26,7 +26,6 @@ from web import *
 from qr import *
 from siteexists import *
 from hex import *
-from search import *
 from zip import *
 try:
     import netifaces
